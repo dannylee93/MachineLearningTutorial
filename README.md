@@ -1,4 +1,4 @@
-<p align="center"><img src="https://miro.medium.com/max/4320/1*eNd_RaITEus4c0dP2Ty2gw.jpeg" style="zoom:50%;" /></p>
+<p align="center"><img src="https://tensorflowkorea.files.wordpress.com/2018/06/cover_1.jpg?w=245&h=300" /></p>
 
 # MachineLearning Tutorial
 
